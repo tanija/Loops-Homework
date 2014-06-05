@@ -1,0 +1,6 @@
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\18.Trailing Zeroes in N!\bin\Debug\18.Trailing Zeroes in N!.exe.config
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\18.Trailing Zeroes in N!\bin\Debug\18.Trailing Zeroes in N!.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\18.Trailing Zeroes in N!\bin\Debug\18.Trailing Zeroes in N!.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\18.Trailing Zeroes in N!\obj\Debug\18.Trailing Zeroes in N!.csprojResolveAssemblyReference.cache
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\18.Trailing Zeroes in N!\obj\Debug\18.Trailing Zeroes in N!.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\18.Trailing Zeroes in N!\obj\Debug\18.Trailing Zeroes in N!.pdb

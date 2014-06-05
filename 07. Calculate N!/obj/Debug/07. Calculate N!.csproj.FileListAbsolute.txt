@@ -1,0 +1,6 @@
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\07. Calculate N!\bin\Debug\_07.Calculate_N_.exe.config
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\07. Calculate N!\bin\Debug\_07.Calculate_N_.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\07. Calculate N!\bin\Debug\_07.Calculate_N_.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\07. Calculate N!\obj\Debug\_07.Calculate_N_.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\07. Calculate N!\obj\Debug\_07.Calculate_N_.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\07. Calculate N!\obj\Debug\07. Calculate N!.csprojResolveAssemblyReference.cache

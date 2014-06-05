@@ -1,0 +1,6 @@
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\06. Calculate NK\bin\Debug\_06.Calculate_NK.exe.config
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\06. Calculate NK\bin\Debug\_06.Calculate_NK.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\06. Calculate NK\bin\Debug\_06.Calculate_NK.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\06. Calculate NK\obj\Debug\_06.Calculate_NK.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\06. Calculate NK\obj\Debug\_06.Calculate_NK.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\06. Calculate NK\obj\Debug\06. Calculate NK.csprojResolveAssemblyReference.cache

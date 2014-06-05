@@ -1,0 +1,6 @@
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\5. Calculate  NXN\bin\Debug\_5.Calculate__NXN.exe.config
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\5. Calculate  NXN\obj\Debug\5. Calculate  NXN.csprojResolveAssemblyReference.cache
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\5. Calculate  NXN\bin\Debug\_5.Calculate__NXN.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\5. Calculate  NXN\bin\Debug\_5.Calculate__NXN.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\5. Calculate  NXN\obj\Debug\_5.Calculate__NXN.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\5. Calculate  NXN\obj\Debug\_5.Calculate__NXN.pdb

@@ -1,0 +1,5 @@
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe.config
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\12. Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\12. Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.pdb

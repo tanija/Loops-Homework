@@ -1,0 +1,5 @@
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\17.  Calculate GCD\bin\Debug\_17.Calculate_GCD.exe.config
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\17.  Calculate GCD\bin\Debug\_17.Calculate_GCD.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\17.  Calculate GCD\bin\Debug\_17.Calculate_GCD.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\17.  Calculate GCD\obj\Debug\_17.Calculate_GCD.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\17.  Calculate GCD\obj\Debug\_17.Calculate_GCD.pdb

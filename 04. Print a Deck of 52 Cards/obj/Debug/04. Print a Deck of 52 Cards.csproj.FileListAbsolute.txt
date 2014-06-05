@@ -1,0 +1,6 @@
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe.config
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.pdb
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\04. Print a Deck of 52 Cards\obj\Debug\04. Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.exe
+D:\[SOFTUNI]\6. Loops\6. Loops-Homework\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.pdb
